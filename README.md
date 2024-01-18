@@ -43,12 +43,10 @@ IEEE Research Paper</h2>
   </p>
   <h4><a href="https://ieeexplore.ieee.org/document/9698968/">
 Research Paper On IEEE </h4>
-<h5 id="IEEE-Cite">
-Citation</h5>
+
 
 ```
-K. Sabry and M. Emad, "Road Traffic Accidents Detection Based On Crash Estimation," 2021 17th International Computer Engineering Conference (ICENCO), 2021, pp. 63-68, doi: 10.1109/ICENCO49852.2021.9698968.
-  
+
 ```
 
   <h2 id="System-Architecture">
